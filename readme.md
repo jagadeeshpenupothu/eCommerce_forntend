@@ -1,1 +1,1 @@
-This repo. contains the frontend projects.
+An ecommerce wen=bsite frontend with HTML and CSS.
