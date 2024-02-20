@@ -1,1 +1,1 @@
-An ecommerce wen=bsite frontend with HTML and CSS.
+Contains the frontend codebase for our eCommerce website project. Built using HTML and CSS.
